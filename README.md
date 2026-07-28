@@ -1,4 +1,4 @@
-# README Instructions for Selenium and Appium Test Script
+# README Instructions for Selenium and Appium Test Script.
 
 ## Overview
 This project contains an end-to-end (E2E) automated test script for a mobile application using Appium and Selenium WebDriver. The script is intended to test user interactions such as button clicks, pop-up handling, and phone number input on an Android emulator
